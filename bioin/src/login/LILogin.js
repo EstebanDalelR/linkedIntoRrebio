@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import linkedlogo from './linkedlogo.png';
-import Empty from './Empty';
 
 export default class LILogin extends Component {
     state={
